@@ -1,0 +1,23 @@
+.div_btn_submit {
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.btn {
+   background-color: #222;
+   color: #fff;
+   padding: 0.7em;
+   text-decoration: none;
+   transition: 0.5s;
+   cursor: pointer;
+   border: none;
+   font-size: 1em;
+}
+
+.btn:hover {
+   color: #ffbb33;
+   font-size: 1.1em;
+}
